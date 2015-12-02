@@ -1,0 +1,10 @@
+PODS:
+  - YYWebImage (0.9.11)
+
+DEPENDENCIES:
+  - YYWebImage
+
+SPEC CHECKSUMS:
+  YYWebImage: a65b28461dc63d3b84de7c06ea0fbc4d46cdcd16
+
+COCOAPODS: 0.39.0
